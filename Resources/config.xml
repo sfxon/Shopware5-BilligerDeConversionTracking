@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+        <element type="text" scope="locale" required="true">
+            <name>billigerShopId</name>
+            <label lang="de">Billiger.de - Shop Id</label>
+            <label lang="en">Billiger.de - Shop Id</label>
+            <value></value>
+            <description lang="de">Die Shop Id aus dem Solute.de Backend (billiger.de) muss hier eingetragen werden.</description>
+            <description lang="en">The shop id of the solute.de backend (billiger.de) has to be inserted here.</description>
+        </element>
+    </elements>
+</config>

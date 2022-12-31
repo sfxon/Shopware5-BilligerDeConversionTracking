@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+
+    <label lang="de">Mindfav Billiger Tracking</label>
+    <label lang="en">Mindfav Billiger Tracking</label>
+
+    <version>1.0.0</version>
+    <copyright>(c) by Mindfav</copyright>
+    <license>MIT</license>
+    <link>http://mindfav.com/mindfavBilligerTracking</link>
+    <author>Mindfav, Steve Krämer</author>
+    <compatibility minVersion="5.3.0"/>
+
+    <changelog version="1.0.0">
+        <changes lang="de">Erstveröffentlichung</changes>
+        <changes lang="en">First release</changes>
+    </changelog>
+</plugin>
